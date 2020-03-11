@@ -6,4 +6,5 @@ public void test(){
 	System.out.println("master say Hi");
 	System.out.println("dev say Hello");
 	System.out.pritnln("new test");
+	System.out.pritnln("new code");
 }
