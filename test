@@ -3,5 +3,5 @@ public static void main(String args[]){
 }
 
 public void test(){
-	System.out.println();
+	System.out.println("Hello");
 }
